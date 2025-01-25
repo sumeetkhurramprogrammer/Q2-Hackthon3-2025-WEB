@@ -1,4 +1,4 @@
-# Hackathon E-Commerce Website 🛒
+# Hackathon E-Commerce Website By Sumeet Khurram🛒
 
 This project is a **fully responsive** e-commerce website UI/UX, designed and developed within **24 hours** as part of a hackathon challenge. Recently updated with **Sanity CMS**, the website now supports dynamic content management, enhancing its scalability and ease of use. Built with modern tools like **Tailwind CSS**, **Next.js**, and **Sanity CMS**, it showcases clean design, efficient functionality, and adaptability across all devices.
 
